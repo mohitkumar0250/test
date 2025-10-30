@@ -1,4 +1,4 @@
-# Low-Power 8-bit ALU Design Using VLSI Techniques
+# Low-Power
 
 This repository contains my project on designing a low-power 8-bit Arithmetic Logic Unit (ALU) using CMOS logic and VLSI techniques.
 
